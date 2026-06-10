@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Proveedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:Proveedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoProveedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoProveedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaProveedores.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaProveedores.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaMedicamentos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaMedicamentos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\medicamento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:medicamento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\SistemaFarmacia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:SistemaFarmacia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoVenta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoVenta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaProveedores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaProveedores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\SistemaFarmacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:SistemaFarmacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoGenerico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:MedicamentoGenerico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaMedicamentos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaMedicamentos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoMedicamento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoMedicamento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoVenta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoVenta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaClientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaClientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\venta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:venta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\medicamento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:medicamento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaClientes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaClientes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoMarca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:MedicamentoMarca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoMarca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:MedicamentoMarca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoCliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoCliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoControlado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:MedicamentoControlado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoControlado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:MedicamentoControlado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoGenerico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:MedicamentoGenerico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\venta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:venta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaVentas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:ListaVentas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoCliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoCliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Proveedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:Proveedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoProveedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoProveedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoMedicamento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ECED0A7-522F-4DA7-8DC8-AE3FE15268BE}|SistemaFarmacia.vcxproj|solutionrelative:NodoMedicamento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaFarmacia.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\SistemaFarmacia.h",
+              "RelativeDocumentMoniker": "SistemaFarmacia.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\SistemaFarmacia.h",
+              "RelativeToolTip": "SistemaFarmacia.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-09T19:53:49.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ListaVentas.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaVentas.cpp",
+              "RelativeDocumentMoniker": "ListaVentas.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaVentas.cpp",
+              "RelativeToolTip": "ListaVentas.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T05:15:29.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListaVentas.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaVentas.h",
+              "RelativeDocumentMoniker": "ListaVentas.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaVentas.h",
+              "RelativeToolTip": "ListaVentas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-29T05:13:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NodoVenta.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoVenta.cpp",
+              "RelativeDocumentMoniker": "NodoVenta.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoVenta.cpp",
+              "RelativeToolTip": "NodoVenta.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T05:12:04.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NodoVenta.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoVenta.h",
+              "RelativeDocumentMoniker": "NodoVenta.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoVenta.h",
+              "RelativeToolTip": "NodoVenta.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-29T05:10:12.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "venta.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\venta.cpp",
+              "RelativeDocumentMoniker": "venta.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\venta.cpp",
+              "RelativeToolTip": "venta.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T05:06:01.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "venta.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\venta.h",
+              "RelativeDocumentMoniker": "venta.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\venta.h",
+              "RelativeToolTip": "venta.h",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-29T05:01:49.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "medicamento.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\medicamento.h",
+              "RelativeDocumentMoniker": "medicamento.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\medicamento.h",
+              "RelativeToolTip": "medicamento.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T20:05:08.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaProveedores.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaProveedores.h",
+              "RelativeDocumentMoniker": "ListaProveedores.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaProveedores.h",
+              "RelativeToolTip": "ListaProveedores.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T15:15:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NodoProveedor.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoProveedor.cpp",
+              "RelativeDocumentMoniker": "NodoProveedor.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoProveedor.cpp",
+              "RelativeToolTip": "NodoProveedor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T15:12:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodoProveedor.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoProveedor.h",
+              "RelativeDocumentMoniker": "NodoProveedor.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoProveedor.h",
+              "RelativeToolTip": "NodoProveedor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T15:12:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Proveedor.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Proveedor.cpp",
+              "RelativeDocumentMoniker": "Proveedor.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Proveedor.cpp",
+              "RelativeToolTip": "Proveedor.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T15:11:48.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proveedor.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Proveedor.h",
+              "RelativeDocumentMoniker": "Proveedor.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Proveedor.h",
+              "RelativeToolTip": "Proveedor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T14:32:10.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NodoCliente.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoCliente.cpp",
+              "RelativeDocumentMoniker": "NodoCliente.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoCliente.cpp",
+              "RelativeToolTip": "NodoCliente.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T03:34:38.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NodoCliente.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoCliente.h",
+              "RelativeDocumentMoniker": "NodoCliente.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoCliente.h",
+              "RelativeToolTip": "NodoCliente.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T03:18:59.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Cliente.h",
+              "RelativeDocumentMoniker": "Cliente.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Cliente.h",
+              "RelativeToolTip": "Cliente.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T03:15:42.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListaClientes.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaClientes.h",
+              "RelativeDocumentMoniker": "ListaClientes.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaClientes.h",
+              "RelativeToolTip": "ListaClientes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T05:03:59.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListaClientes.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaClientes.cpp",
+              "RelativeDocumentMoniker": "ListaClientes.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaClientes.cpp",
+              "RelativeToolTip": "ListaClientes.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T05:03:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaProveedores.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaProveedores.cpp",
+              "RelativeDocumentMoniker": "ListaProveedores.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaProveedores.cpp",
+              "RelativeToolTip": "ListaProveedores.cpp",
+              "ViewState": "AgIAAN4AAAAAAAAAAIAwwO0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T05:03:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaMedicamentos.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaMedicamentos.cpp",
+              "RelativeDocumentMoniker": "ListaMedicamentos.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaMedicamentos.cpp",
+              "RelativeToolTip": "ListaMedicamentos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T20:57:10.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NodoMedicamento.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoMedicamento.cpp",
+              "RelativeDocumentMoniker": "NodoMedicamento.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoMedicamento.cpp",
+              "RelativeToolTip": "NodoMedicamento.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T20:54:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaMedicamentos.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaMedicamentos.h",
+              "RelativeDocumentMoniker": "ListaMedicamentos.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\ListaMedicamentos.h",
+              "RelativeToolTip": "ListaMedicamentos.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-16T20:48:39.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NodoMedicamento.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoMedicamento.h",
+              "RelativeDocumentMoniker": "NodoMedicamento.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\NodoMedicamento.h",
+              "RelativeToolTip": "NodoMedicamento.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-16T20:16:16.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MedicamentoControlado.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoControlado.cpp",
+              "RelativeDocumentMoniker": "MedicamentoControlado.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoControlado.cpp",
+              "RelativeToolTip": "MedicamentoControlado.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-26T04:43:08.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MedicamentoMarca.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoMarca.cpp",
+              "RelativeDocumentMoniker": "MedicamentoMarca.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoMarca.cpp",
+              "RelativeToolTip": "MedicamentoMarca.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T22:50:16.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MedicamentoMarca.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoMarca.h",
+              "RelativeDocumentMoniker": "MedicamentoMarca.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoMarca.h",
+              "RelativeToolTip": "MedicamentoMarca.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-25T22:35:29.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MedicamentoGenerico.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoGenerico.h",
+              "RelativeDocumentMoniker": "MedicamentoGenerico.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoGenerico.h",
+              "RelativeToolTip": "MedicamentoGenerico.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-25T21:12:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicamentoGenerico.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoGenerico.cpp",
+              "RelativeDocumentMoniker": "MedicamentoGenerico.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoGenerico.cpp",
+              "RelativeToolTip": "MedicamentoGenerico.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T21:24:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "medicamento.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\medicamento.cpp",
+              "RelativeDocumentMoniker": "medicamento.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\medicamento.cpp",
+              "RelativeToolTip": "medicamento.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T21:00:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cliente.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Cliente.cpp",
+              "RelativeDocumentMoniker": "Cliente.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\Cliente.cpp",
+              "RelativeToolTip": "Cliente.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T21:00:10.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SistemaFarmacia.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\SistemaFarmacia.cpp",
+              "RelativeDocumentMoniker": "SistemaFarmacia.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\SistemaFarmacia.cpp",
+              "RelativeToolTip": "SistemaFarmacia.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T21:00:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T21:00:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MedicamentoControlado.h",
+              "DocumentMoniker": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoControlado.h",
+              "RelativeDocumentMoniker": "MedicamentoControlado.h",
+              "ToolTip": "C:\\RepositorioAvance3FarmaSystem\\RepositorioAvance3FarmaSystem\\FARMA_SYSTEM\\SistemaFarmacia\\SistemaFarmacia\\MedicamentoControlado.h",
+              "RelativeToolTip": "MedicamentoControlado.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-26T04:20:50.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
